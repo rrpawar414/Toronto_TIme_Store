@@ -3,3 +3,47 @@
 2024/11/28 09:25:43 Error connecting to database: Error 1044 (42000): Access denied for user 'go_user'@'localhost' to database 'toronto_time_det'
 2024/11/28 09:27:37 Server failed: listen tcp :8080: bind: address already in use
 2024/11/28 10:20:55 Server running on port 8080...
+2024/11/28 10:32:12 Logging initialized
+2024/11/28 10:32:12 Successfully connected to the database
+2024/11/28 10:32:12 Server running on port 8080...
+2024/11/28 10:32:33 Request: GET /current-time
+2024/11/28 10:32:33 Returned current time: 2024-11-28 10:32:33.577359 -0500 EST
+2024/11/28 10:32:34 Request: GET /current-time
+2024/11/28 10:32:34 Returned current time: 2024-11-28 10:32:34.814676 -0500 EST
+2024/11/28 10:32:37 Request: GET /current-time
+2024/11/28 10:32:37 Returned current time: 2024-11-28 10:32:37.819494 -0500 EST
+2024/11/28 10:32:38 Request: GET /current-time
+2024/11/28 10:32:38 Returned current time: 2024-11-28 10:32:38.233824 -0500 EST
+2024/11/28 10:32:38 Request: GET /current-time
+2024/11/28 10:32:38 Returned current time: 2024-11-28 10:32:38.702585 -0500 EST
+2024/11/28 10:32:38 Request: GET /current-time
+2024/11/28 10:32:38 Returned current time: 2024-11-28 10:32:38.868099 -0500 EST
+2024/11/28 10:32:39 Request: GET /current-time
+2024/11/28 10:32:39 Returned current time: 2024-11-28 10:32:39.270807 -0500 EST
+2024/11/28 10:32:39 Request: GET /current-time
+2024/11/28 10:32:39 Returned current time: 2024-11-28 10:32:39.418439 -0500 EST
+2024/11/28 10:32:39 Request: GET /current-time
+2024/11/28 10:32:39 Returned current time: 2024-11-28 10:32:39.577874 -0500 EST
+2024/11/28 10:32:39 Request: GET /current-time
+2024/11/28 10:32:39 Returned current time: 2024-11-28 10:32:39.733669 -0500 EST
+2024/11/28 10:32:40 Request: GET /current-time
+2024/11/28 10:32:40 Returned current time: 2024-11-28 10:32:40.027523 -0500 EST
+2024/11/28 10:38:42 Logging initialized
+2024/11/28 10:38:43 Successfully connected to the database
+2024/11/28 10:38:43 Server running on port 8080...
+2024/11/28 10:38:50 Request: GET /current-time
+2024/11/28 10:38:50 Returned current time: 2024-11-28 10:38:50.258417 -0500 EST
+2024/11/28 10:38:50 Request: GET /current-time
+2024/11/28 10:38:50 Returned current time: 2024-11-28 10:38:50.74118 -0500 EST
+2024/11/28 10:38:51 Request: GET /current-time
+2024/11/28 10:38:51 Returned current time: 2024-11-28 10:38:51.144591 -0500 EST
+2024/11/28 10:38:51 Request: GET /current-time
+2024/11/28 10:38:51 Returned current time: 2024-11-28 10:38:51.324504 -0500 EST
+2024/11/28 10:38:51 Request: GET /current-time
+2024/11/28 10:38:51 Returned current time: 2024-11-28 10:38:51.677405 -0500 EST
+2024/11/28 10:38:51 Request: GET /current-time
+2024/11/28 10:38:51 Returned current time: 2024-11-28 10:38:51.842065 -0500 EST
+2024/11/28 10:38:52 Request: GET /current-time
+2024/11/28 10:38:52 Returned current time: 2024-11-28 10:38:52.02913 -0500 EST
+2024/11/28 11:00:47 Request: GET /time-logs
+2024/11/28 11:00:47 Returned 43 time logs
